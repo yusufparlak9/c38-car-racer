@@ -1,2 +1,2 @@
-# c38-car-racer
-we created a car racer game we added different perspectives
+# C38RV_SpeedRacer_StudentActivity
+Student Activity
